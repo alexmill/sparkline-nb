@@ -1,5 +1,5 @@
-# sparkline-nb
+# sparkline-histograms-nb
 
-[Notebook](https://github.com/iiSeymour/sparkline-nb/blob/master/sparkline-nb.ipynb) demonstrating rendering sparkline style charts in pandas dataframes.
+[Notebook](https://github.com/alexmill/sparkline-nb/blob/master/sparkline-hist-nb.ipynb) demonstrating rendering sparkline style histograms in pandas dataframes.
 
-![](https://raw.githubusercontent.com/iiSeymour/sparkline-nb/master/static/sparklines.png)
+<!--![](https://raw.githubusercontent.com/alexmill/sparkline-nb/master/static/sparklines.png)-->
